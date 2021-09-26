@@ -1,0 +1,49 @@
+div#introduction{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+
+h1{
+  text-align: center;
+  font-family: 'cursive';
+}
+
+p.description{
+  font-weight: bold;
+  border-width: 20px;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  font-style: italic;
+}
+
+h2{
+  text-align: center;
+  font-weight: 600;
+  border: 3px solid black;
+}
+
+p.about{
+  font-style: italic;
+  text-align: center;
+}
+
+body{
+  background-image: url(https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
+img{
+  height: 350px;
+  width: 400px;
+  align-items: center;
+}
+
+p.contact{
+  text-decoration-line: underline;
+}
+
+p.contact{
+  text-decoration-line: underline;
+  text-align: center;
+}
