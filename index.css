@@ -10,6 +10,11 @@ h1{
   font-family: 'cursive';
 }
 
+h2.about{
+  background-color: grey;
+  color: white;
+}
+
 p.description{
   font-weight: bold;
   border-width: 20px;
