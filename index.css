@@ -52,6 +52,6 @@ footer#contact{
   background-color: #ccc;
 }
 
-p.contact{
-  font-weight: bold;
+li.phone{
+  color: blue;
 }
