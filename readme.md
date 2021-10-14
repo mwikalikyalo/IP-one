@@ -1,4 +1,4 @@
-# Photography-assignment
+# PHOTOGRAPHY- ASSIGNMENT.
 This is the first independent project using the theme provided which is photography.
 ## AUTHOR.
 Winifred Mwikali Kyalo- student at Moringa School.
