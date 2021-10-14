@@ -68,3 +68,7 @@ p.us{
   font-weight: bold;
   text-decoration: underline;
 }
+
+li.gmail{
+  color: blue;
+}
